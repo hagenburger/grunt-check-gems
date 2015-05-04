@@ -61,7 +61,7 @@ In this example, a custom option (= a customized name of your Gemfile) is used.
 
 ```js
 grunt.initConfig({
-  check-gems: {
+  'check-gems': {
     options: {
       gemfile: 'YourWeirdGemfileName',
     },
